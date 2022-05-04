@@ -1,2 +1,6 @@
 <xml>
-	<a1>"Ada"</a1>;
+	<firstName>"Ada"</firstName>
+	<surname>"Shalygina"</surname>
+	<age>"25"</age>
+	<number of pets>"1"</number of pets>
+	<future desired salary>"1000"</future desired salary>;
